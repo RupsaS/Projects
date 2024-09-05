@@ -1,0 +1,78 @@
+.d1{
+    background-color: #3b5998;
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    margin: 0px;
+}
+.form1{
+    margin: 50px 50px 50px 50px;
+}
+.inner_form{
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+}
+.fb_logo{
+    color: white;
+    margin: 100px 50px 50px 50px;
+    font-size: 45px;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.pass{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.Login_b1{
+    height: 20px;
+    margin: 18px;
+    color: white;
+    background-color: #1f1f72;
+}
+.para{
+    color: white;
+}
+.pas1{
+    color: white;
+}
+.left_side{
+    margin-top: -300px;
+    margin-left: 5%;
+}
+.left_side1{
+    margin-right: -40px;
+    margin-left: 10%;
+}
+.sign{
+    margin-top: -20%;
+    text-transform: capitalize;
+}
+.span_1{
+    color: #0080ff;
+    font-size: 12px;
+}
+.button {
+    font-size: 19px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #fff;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    background-color: #64a551;
+}
+.p1{
+    font-size: 12px;
+}
+.p_2{
+    font-size: 14px;
+}
+.input{
+    justify-content: space-between;
+}
